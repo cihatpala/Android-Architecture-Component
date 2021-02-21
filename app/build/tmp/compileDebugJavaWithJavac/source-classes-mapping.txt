@@ -1,0 +1,4 @@
+cihatpala/com/MainActivity.java
+ cihatpala.com.MainActivity
+cihatpala/com/BuildConfig.java
+ cihatpala.com.BuildConfig
