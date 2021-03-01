@@ -1,0 +1,22 @@
+cihatpala/com/MainActivity.java
+ cihatpala.com.MainActivity
+ cihatpala.com.MainActivity$1
+cihatpala/com/BuildConfig.java
+ cihatpala.com.BuildConfig
+cihatpala/com/NoteDatabase.java
+ cihatpala.com.NoteDatabase
+ cihatpala.com.NoteDatabase$1
+ cihatpala.com.NoteDatabase$PopulateDbAsyncTask
+cihatpala/com/NoteRepository.java
+ cihatpala.com.NoteRepository
+ cihatpala.com.NoteRepository$1
+ cihatpala.com.NoteRepository$DeleteAllNotesAsyncTask
+ cihatpala.com.NoteRepository$DeleteNoteAsyncTask
+ cihatpala.com.NoteRepository$InsertNoteAsyncTask
+ cihatpala.com.NoteRepository$UpdateNoteAsyncTask
+cihatpala/com/Note.java
+ cihatpala.com.Note
+cihatpala/com/NoteViewModel.java
+ cihatpala.com.NoteViewModel
+cihatpala/com/NoteDao.java
+ cihatpala.com.NoteDao

@@ -1,0 +1,4 @@
+#Mon Mar 01 23:18:39 TRT 2021
+base.0=G\:\\My-Projects\\ArchitectureComponent\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

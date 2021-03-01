@@ -8,7 +8,7 @@ import androidx.room.PrimaryKey;
 public class Note {
 
     @PrimaryKey(autoGenerate = true)
-    private int id;
+    protected int id;
 
     private String title;
     private String description;
@@ -20,12 +20,12 @@ public class Note {
         this.priority = priority;
     }
 
-    public void setId(int id) {
-        this.id = id;
-    }
-
     public int getId() {
         return id;
+    }
+
+    public void setId(int id) {
+        this.id = id;
     }
 
     public String getTitle() {
