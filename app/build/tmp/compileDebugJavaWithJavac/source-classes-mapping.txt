@@ -20,3 +20,6 @@ cihatpala/com/NoteViewModel.java
  cihatpala.com.NoteViewModel
 cihatpala/com/NoteDao.java
  cihatpala.com.NoteDao
+cihatpala/com/NoteAdapter.java
+ cihatpala.com.NoteAdapter
+ cihatpala.com.NoteAdapter$NoteHolder

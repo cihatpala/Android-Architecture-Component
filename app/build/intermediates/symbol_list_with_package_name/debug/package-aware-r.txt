@@ -1975,6 +1975,7 @@ id progress_horizontal
 id radio
 id ratio
 id rectangles
+id recycler_view
 id reverseSawtooth
 id right
 id rightToLeft
@@ -2060,6 +2061,9 @@ id textTop
 id text_input_end_icon
 id text_input_error_icon
 id text_input_start_icon
+id text_view_description
+id text_view_priority
+id text_view_title
 id textinput_counter
 id textinput_error
 id textinput_helper_text
@@ -2215,6 +2219,7 @@ layout mtrl_picker_header_title_text
 layout mtrl_picker_header_toggle
 layout mtrl_picker_text_input_date
 layout mtrl_picker_text_input_date_range
+layout note_item
 layout notification_action
 layout notification_action_tombstone
 layout notification_template_custom_big

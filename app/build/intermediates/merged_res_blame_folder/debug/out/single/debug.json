@@ -72,6 +72,10 @@
         "source": "G:\\My-Projects\\ArchitectureComponent\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
     },
     {
+        "merged": "G:\\My-Projects\\ArchitectureComponent\\app\\build\\intermediates\\res\\merged\\debug\\layout_note_item.xml.flat",
+        "source": "G:\\My-Projects\\ArchitectureComponent\\app\\src\\main\\res\\layout\\note_item.xml"
+    },
+    {
         "merged": "G:\\My-Projects\\ArchitectureComponent\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
         "source": "G:\\My-Projects\\ArchitectureComponent\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
     },
